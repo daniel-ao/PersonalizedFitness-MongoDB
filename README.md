@@ -117,11 +117,6 @@ Contributions are welcome! If you’d like to improve or expand the project, fee
 
 ---
 
-## License
-
-This project is licensed under the MIT License.
-
----
 
 ## Author
 
