@@ -1,8 +1,7 @@
 package com.mongodb.quickstart.PersonalizedFitness;
 
 
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
+//Git test to commit
 
 
 public class Main {
